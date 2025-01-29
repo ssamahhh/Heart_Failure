@@ -1,0 +1,1 @@
+This project focuses on analyzing a dataset related to heart failure. The goal is to predict the likelihood of heart failure in patients using two machine learning algorithms: Logistic Regression and K-Nearest Neighbors (KNN)
